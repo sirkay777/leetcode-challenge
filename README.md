@@ -10,96 +10,96 @@
 
 ### 堆栈、队列
 
-- [ ] https://leetcode.com/problems/implement-queue-using-stacks
-- [ ] https://leetcode.com/problems/implement-stack-using-queues
-- [ ] https://leetcode.com/problems/valid-parentheses
+- [ ] https://leetcode.com/problems/implement-queue-using-stacks `Easy`
+- [ ] https://leetcode.com/problems/implement-stack-using-queues `Easy`
+- [ ] https://leetcode.com/problems/valid-parentheses `Easy`
 
 ### 优先队列
 
-- [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream
-- [ ] https://leetcode.com/problems/sliding-window-maximum
+- [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream `Easy`
+- [ ] https://leetcode.com/problems/sliding-window-maximum `Hard`
 
 ### 哈希表
 
-- [ ] https://leetcode.com/problems/valid-anagram
-- [ ] https://leetcode.com/problems/two-sum
-- [ ] https://leetcode.com/problems/3sum
-- [ ] https://leetcode.com/problems/4sum
-- [ ] https://leetcode.com/problems/group-anagrams
+- [ ] https://leetcode.com/problems/valid-anagram `Easy`
+- [ ] https://leetcode.com/problems/two-sum `Easy`
+- [ ] https://leetcode.com/problems/3sum `Easy`
+- [ ] https://leetcode.com/problems/4sum `Medium`
+- [ ] https://leetcode.com/problems/group-anagrams `Medium`
 
 ### 树、二叉树、二叉搜索树
 
-- [ ] https://leetcode.com/problems/validate-binary-search-tree
-- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
-- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+- [ ] https://leetcode.com/problems/validate-binary-search-tree `Medium`
+- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree `Easy`
+- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree `Medium`
 
 ### 递归、分治
 
-- [ ] https://leetcode.com/problems/powx-n
-- [ ] https://leetcode.com/problems/majority-element
-- [ ] https://leetcode.com/problems/maximum-subarray
-- [ ] https://leetcode.com/problems/valid-anagram
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
-- [ ] https://leetcode.com/problems/anagrams
+- [ ] https://leetcode.com/problems/powx-n `Medium`
+- [ ] https://leetcode.com/problems/majority-element `Easy`
+- [ ] https://leetcode.com/problems/maximum-subarray `Easy`
+- [ ] https://leetcode.com/problems/valid-anagram `Easy`
+- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string `Medium`
+- [ ] https://leetcode.com/problems/group-anagrams/ `Medium`
 
 ### 贪⼼算法
 
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-- [ ] https://leetcode.com/problems/lemonade-change
-- [ ] https://leetcode.com/problems/assign-cookies
-- [ ] https://leetcode.com/problems/walking-robot-simulation
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii `Easy`
+- [ ] https://leetcode.com/problems/lemonade-change `Easy`
+- [ ] https://leetcode.com/problems/assign-cookies `Easy`
+- [ ] https://leetcode.com/problems/walking-robot-simulation `Easy`
 
 ### 深度优先+广度优先
 
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal
-- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree
-- [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree
-- [ ] https://leetcode.com/problems/generate-parentheses
+- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal `Medium`
+- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree `Easy`
+- [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree `Easy`
+- [ ] https://leetcode.com/problems/generate-parentheses `Medium`
 
 ### 回溯、剪枝
 
-- [ ] https://leetcode.com/problems/n-queens
-- [ ] https://leetcode.com/problems/n-queens-ii
-- [ ] https://leetcode.com/problems/valid-sudoku
-- [ ] https://leetcode.com/problems/sudoku-solver
+- [ ] https://leetcode.com/problems/n-queens `Hard`
+- [ ] https://leetcode.com/problems/n-queens-ii `Hard`
+- [ ] https://leetcode.com/problems/valid-sudoku `Medium`
+- [ ] https://leetcode.com/problems/sudoku-solver `Hard`
 
 ### ⼆分查找
 
-- [ ] https://leetcode.com/problems/sqrtx
-- [ ] https://leetcode.com/problems/valid-perfect-square
+- [ ] https://leetcode.com/problems/sqrtx `Easy`
+- [ ] https://leetcode.com/problems/valid-perfect-square `Easy`
 
 ### 字典树
 
-- [ ] https://leetcode.com/problems/implement-trie-prefix-tree
-- [ ] https://leetcode.com/problems/word-search-ii
+- [ ] https://leetcode.com/problems/implement-trie-prefix-tree `Medium`
+- [ ] https://leetcode.com/problems/word-search-ii `Hard`
 
 ### 位运算
 
-- [ ] https://leetcode.com/problems/number-of-1-bits
-- [ ] https://leetcode.com/problems/power-of-two
-- [ ] https://leetcode.com/problems/counting-bits
-- [ ] https://leetcode.com/problems/n-queens-ii
+- [ ] https://leetcode.com/problems/number-of-1-bits `Easy`
+- [ ] https://leetcode.com/problems/power-of-two `Easy`
+- [ ] https://leetcode.com/problems/counting-bits `Medium`
+- [ ] https://leetcode.com/problems/n-queens-ii `Hard`
 
 ### 动态规划
 
-- [ ] https://leetcode.com/problems/climbing-stairs
-- [ ] https://leetcode.com/problems/triangle
-- [ ] https://leetcode.com/problems/maximum-product-subarray
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
-- [ ] https://leetcode.com/problems/longest-increasing-subsequence
-- [ ] https://leetcode.com/problems/coin-change
-- [ ] https://leetcode.com/problems/edit-distance
+- [ ] https://leetcode.com/problems/climbing-stairs `Easy`
+- [ ] https://leetcode.com/problems/triangle `Medium`
+- [ ] https://leetcode.com/problems/maximum-product-subarray `Medium`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock `Easy`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii `Easy`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii `Hard`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv `Hard`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown `Medium`
+- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee `Medium`
+- [ ] https://leetcode.com/problems/longest-increasing-subsequence `Medium`
+- [ ] https://leetcode.com/problems/coin-change `Medium`
+- [ ] https://leetcode.com/problems/edit-distance `Hard`
 
 ### 并查集
 
-- [ ] https://leetcode.com/problems/number-of-islands
-- [ ] https://leetcode.com/problems/friend-circles
+- [ ] https://leetcode.com/problems/number-of-islands `Medium`
+- [ ] https://leetcode.com/problems/friend-circles `Medium`
 
 ### LRU Cache
 
-- [ ] https://leetcode.com/problems/lru-cache
+- [ ] https://leetcode.com/problems/lru-cache `Medium`
