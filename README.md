@@ -56,7 +56,7 @@
 - [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree
 - [ ] https://leetcode.com/problems/generate-parentheses
 
-### 剪枝
+### 回溯、剪枝
 
 - [ ] https://leetcode.com/problems/n-queens
 - [ ] https://leetcode.com/problems/n-queens-ii
