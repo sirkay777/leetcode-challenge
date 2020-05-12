@@ -12,9 +12,9 @@
 
 ### 堆栈、队列
 
-- [ ] https://leetcode.com/problems/implement-queue-using-stacks `Easy`
+- [x] https://leetcode.com/problems/implement-queue-using-stacks `Easy`
 - [ ] https://leetcode.com/problems/implement-stack-using-queues `Easy`
-- [ ] https://leetcode.com/problems/valid-parentheses `Easy`
+- [x] https://leetcode.com/problems/valid-parentheses `Easy`
 
 ### 优先队列
 
@@ -27,7 +27,6 @@
 - [ ] https://leetcode.com/problems/two-sum `Easy`
 - [ ] https://leetcode.com/problems/3sum `Easy`
 - [ ] https://leetcode.com/problems/4sum `Medium`
-- [ ] https://leetcode.com/problems/group-anagrams `Medium`
 
 ### 树、二叉树、二叉搜索树
 
@@ -40,7 +39,6 @@
 - [ ] https://leetcode.com/problems/powx-n `Medium`
 - [ ] https://leetcode.com/problems/majority-element `Easy`
 - [ ] https://leetcode.com/problems/maximum-subarray `Easy`
-- [ ] https://leetcode.com/problems/valid-anagram `Easy`
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string `Medium`
 - [ ] https://leetcode.com/problems/group-anagrams/ `Medium`
 
