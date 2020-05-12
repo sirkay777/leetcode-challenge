@@ -1,10 +1,6 @@
-package reverselinkedlist
+package reverse_linked_list
 
-//ListNode singly-linked list
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import . "github.com/sirkay777/leetcode-challenge/leetcode/linkedlist"
 
 func ReverseList(head *ListNode) *ListNode {
 	var prev *ListNode
