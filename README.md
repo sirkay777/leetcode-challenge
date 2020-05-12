@@ -7,8 +7,8 @@
 - [x] https://leetcode.com/problems/reverse-linked-list `Easy`
 - [x] https://leetcode.com/problems/linked-list-cycle `Easy`
 - [x] https://leetcode.com/problems/swap-nodes-in-pairs `Medium`
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii `Medium`
-- [ ] https://leetcode.com/problems/reverse-nodes-in-k-group `Hard`
+- [x] https://leetcode.com/problems/linked-list-cycle-ii `Medium`
+- [x] https://leetcode.com/problems/reverse-nodes-in-k-group `Hard`
 
 ### 堆栈、队列
 
