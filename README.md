@@ -13,7 +13,7 @@
 ### 堆栈、队列
 
 - [x] https://leetcode.com/problems/implement-queue-using-stacks `Easy`
-- [ ] https://leetcode.com/problems/implement-stack-using-queues `Easy`
+- [x] https://leetcode.com/problems/implement-stack-using-queues `Easy`
 - [x] https://leetcode.com/problems/valid-parentheses `Easy`
 
 ### 优先队列

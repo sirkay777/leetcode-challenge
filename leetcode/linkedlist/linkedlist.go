@@ -1,10 +1,9 @@
 package linkedlist
 
 import (
+	"encoding/json"
 	"errors"
 	"fmt"
-	"strconv"
-	"strings"
 )
 
 //ListNode  Singly linked list
@@ -15,23 +14,14 @@ type ListNode struct {
 
 //NewLinkedList New a linked list from input string
 func NewLinkedList(input string) (*ListNode, error) {
-	filtered := strings.ReplaceAll(input, " ", "")
-	if len(filtered) == 0 || string(filtered[0]) != "[" ||
-		string(filtered[len(filtered)-1]) != "]" {
+	var vals []int
+	err := json.Unmarshal([]byte(input), &vals)
+	if err != nil {
+		panic(err)
 		return nil, errors.New(fmt.Sprintf("input %s is not valid", input))
 	}
-
-	if filtered == "[]" {
+	if len(vals) == 0 {
 		return nil, nil
-	}
-	list := strings.Split(filtered[1:len(filtered)-1], ",")
-	vals := []int{}
-	for _, v := range list {
-		val, err := strconv.Atoi(v)
-		if err != nil {
-			return nil, errors.New(fmt.Sprintf("input %s is not valid", input))
-		}
-		vals = append(vals, val)
 	}
 	head := &ListNode{Val: vals[0], Next: nil}
 	tail := head
@@ -44,7 +34,10 @@ func NewLinkedList(input string) (*ListNode, error) {
 
 //LinkedListToString convert a linked list to its string representation
 func LinkedListToString(head *ListNode) string {
-	var vals []string
+	if head == nil {
+		return "[]"
+	}
+	var vals []int
 	visited := make(map[*ListNode]bool)
 	for head != nil {
 		_, ok := visited[head]
@@ -52,9 +45,12 @@ func LinkedListToString(head *ListNode) string {
 			panic("cycle detected")
 		}
 		visited[head] = true
-		val := strconv.Itoa(head.Val)
-		vals = append(vals, val)
+		vals = append(vals, head.Val)
 		head = head.Next
 	}
-	return "[" + strings.Join(vals, ",") + "]"
+	res, err := json.Marshal(&vals)
+	if err != nil {
+		panic(err)
+	}
+	return string(res)
 }
