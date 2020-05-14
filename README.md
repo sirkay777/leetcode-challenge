@@ -1,6 +1,7 @@
 ## 《算法面试通关 40 讲》挑战
 
 [极客时间《算法面试通关 40 讲》](https://time.geekbang.org/course/intro/130)
+[讲义](https://github.com/geektime-geekbang/algorithm-1)
 
 ### 数组、链表
 
@@ -18,8 +19,8 @@
 
 ### 优先队列
 
-- [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream `Easy`
-- [ ] https://leetcode.com/problems/sliding-window-maximum `Hard`
+- [x] https://leetcode.com/problems/kth-largest-element-in-a-stream `Easy`
+- [x] https://leetcode.com/problems/sliding-window-maximum `Hard`
 
 ### 哈希表
 
