@@ -24,10 +24,10 @@
 
 ### 哈希表
 
-- [ ] https://leetcode.com/problems/valid-anagram `Easy`
-- [ ] https://leetcode.com/problems/two-sum `Easy`
-- [ ] https://leetcode.com/problems/3sum `Easy`
-- [ ] https://leetcode.com/problems/4sum `Medium`
+- [x] https://leetcode.com/problems/valid-anagram `Easy`
+- [x] https://leetcode.com/problems/two-sum `Easy`
+- [x] https://leetcode.com/problems/3sum `Medium`
+- [x] https://leetcode.com/problems/4sum `Medium`
 
 ### 树、二叉树、二叉搜索树
 
