@@ -1,6 +1,7 @@
 ## 《算法面试通关 40 讲》挑战
 
 [极客时间《算法面试通关 40 讲》](https://time.geekbang.org/course/intro/130)
+
 [讲义](https://github.com/geektime-geekbang/algorithm-1)
 
 ### 数组、链表
@@ -31,9 +32,9 @@
 
 ### 树、二叉树、二叉搜索树
 
-- [ ] https://leetcode.com/problems/validate-binary-search-tree `Medium`
-- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree `Easy`
-- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree `Medium`
+- [x] https://leetcode.com/problems/validate-binary-search-tree `Medium`
+- [x] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree `Easy`
+- [x] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree `Medium`
 
 ### 递归、分治
 
