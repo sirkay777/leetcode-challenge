@@ -38,11 +38,11 @@
 
 ### 递归、分治
 
-- [ ] https://leetcode.com/problems/powx-n `Medium`
-- [ ] https://leetcode.com/problems/majority-element `Easy`
-- [ ] https://leetcode.com/problems/maximum-subarray `Easy`
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string `Medium`
-- [ ] https://leetcode.com/problems/group-anagrams/ `Medium`
+- [x] https://leetcode.com/problems/powx-n `Medium`
+- [x] https://leetcode.com/problems/majority-element `Easy`
+- [x] https://leetcode.com/problems/maximum-subarray `Easy`
+- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string `Medium`
+- [x] https://leetcode.com/problems/group-anagrams/ `Medium`
 
 ### 贪⼼算法
 
