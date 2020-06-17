@@ -46,10 +46,10 @@
 
 ### 贪⼼算法
 
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii `Easy`
-- [ ] https://leetcode.com/problems/lemonade-change `Easy`
-- [ ] https://leetcode.com/problems/assign-cookies `Easy`
-- [ ] https://leetcode.com/problems/walking-robot-simulation `Easy`
+- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii `Easy`
+- [x] https://leetcode.com/problems/lemonade-change `Easy`
+- [x] https://leetcode.com/problems/assign-cookies `Easy`
+- [x] https://leetcode.com/problems/walking-robot-simulation `Easy`
 
 ### 深度优先+广度优先
 
