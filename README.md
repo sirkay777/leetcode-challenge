@@ -53,13 +53,14 @@
 
 ### 深度优先+广度优先
 
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal `Medium`
-- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree `Easy`
-- [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree `Easy`
-- [ ] https://leetcode.com/problems/generate-parentheses `Medium`
+- [x] https://leetcode.com/problems/binary-tree-level-order-traversal `Medium`
+- [x] https://leetcode.com/problems/maximum-depth-of-binary-tree `Easy`
+- [x] https://leetcode.com/problems/minimum-depth-of-binary-tree `Easy`
+
 
 ### 回溯、剪枝
 
+- [x] https://leetcode.com/problems/generate-parentheses `Medium`
 - [ ] https://leetcode.com/problems/n-queens `Hard`
 - [ ] https://leetcode.com/problems/n-queens-ii `Hard`
 - [ ] https://leetcode.com/problems/valid-sudoku `Medium`
