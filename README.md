@@ -61,15 +61,15 @@
 ### 回溯、剪枝
 
 - [x] https://leetcode.com/problems/generate-parentheses `Medium`
-- [ ] https://leetcode.com/problems/n-queens `Hard`
-- [ ] https://leetcode.com/problems/n-queens-ii `Hard`
-- [ ] https://leetcode.com/problems/valid-sudoku `Medium`
-- [ ] https://leetcode.com/problems/sudoku-solver `Hard`
+- [x] https://leetcode.com/problems/n-queens `Hard`
+- [x] https://leetcode.com/problems/n-queens-ii `Hard`
+- [x] https://leetcode.com/problems/valid-sudoku `Medium`
+- [x] https://leetcode.com/problems/sudoku-solver `Hard`
 
 ### ⼆分查找
 
-- [ ] https://leetcode.com/problems/sqrtx `Easy`
-- [ ] https://leetcode.com/problems/valid-perfect-square `Easy`
+- [x] https://leetcode.com/problems/sqrtx `Easy`
+- [x] https://leetcode.com/problems/valid-perfect-square `Easy`
 
 ### 字典树
 
@@ -105,4 +105,4 @@
 
 ### LRU Cache
 
-- [ ] https://leetcode.com/problems/lru-cache `Medium`
+- [x] https://leetcode.com/problems/lru-cache `Medium`
